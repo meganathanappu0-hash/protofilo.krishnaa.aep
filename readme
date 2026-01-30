@@ -1,0 +1,37 @@
+# Krishnaa Aep — Portfolio Website 🎬✨
+
+A modern animated personal portfolio website for showcasing video editing, motion design skills, and freelance services.
+
+This project is built using **HTML, CSS, and JavaScript** with smooth animations, particle background, dark/light mode, and responsive layout.
+
+---
+
+## 🚀 Features
+
+- Responsive design (Mobile + Desktop friendly)
+- Dark / Light Mode Toggle
+- Animated Particle Background
+- 3D Parallax Hero Effect
+- Typed Text Animation
+- Glassmorphism UI Design
+- Smooth Scroll Animations (AOS)
+- Contact Form Integration (Formspree)
+- Social Media Integration
+- SEO Optimized Meta Tags
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)  
+- Font Awesome Icons  
+- Typed.js  
+- AOS Animation Library  
+- Canvas API (Particles Effect)  
+
+---
+
+## 📁 Project Structure
+
